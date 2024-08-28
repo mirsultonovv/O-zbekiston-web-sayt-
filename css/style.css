@@ -74,3 +74,16 @@ body {
 .following {
     background-color: skyblue;
 }
+
+.following-heading {
+    font-size: 40px;
+    font-family: 'Bebas Neue',sans-serif;
+}
+
+.following-list {
+    list-style: none;
+}
+
+.site-footer {
+    background-color: #222;
+}
