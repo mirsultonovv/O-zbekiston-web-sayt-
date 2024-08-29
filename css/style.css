@@ -7,8 +7,6 @@ body {
     letter-spacing: 0.5px;
     color: #000;
     background-color: #fff;
-    justify-content: center;
-    align-items: center;
 }
 
 .site-logo-img {
@@ -27,8 +25,6 @@ body {
 }
 
 .hero-content {
-    justify-content: center;
-    align-items: center;
     background-color: skyblue;
 }
 
